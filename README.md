@@ -54,7 +54,6 @@ python test_automation.py --excel "Assignment 1 - Test cases.xlsx" --url "https:
 ```
 IT3040_Assignment_IT23722286/
 ├── README.md
-├── test_automation/
-│   ├── test_automation.py
-│   └── Assignment 1 - Test case.xlsx
+│── test_automation.py
+└── Assignment 1 - Test case.xlsx
 ```
